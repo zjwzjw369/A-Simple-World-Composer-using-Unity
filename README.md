@@ -6,8 +6,7 @@ examples：<br>
 <br>
 ## The Alps
 <br>
-
 ![image](https://github.com/zjwzjw369/A-Simple-World-Composer-using-Unity/raw/master/The%20Himalayas.png)
-
 <br>
-### The Himalaya
+## The Himalaya
+<br>
